@@ -2,7 +2,6 @@
 # over.  The exchange rate is 100 dols = 37 pounds.
 # a) Produce a table for 10, 20, 30 ... 100 dols showing
 # what you would get back in pounds
-
 dols = 100
 pounds = 37
 conversion = pounds / dols
